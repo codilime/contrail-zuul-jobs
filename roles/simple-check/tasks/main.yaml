@@ -1,0 +1,2 @@
+- name: Execute /bin/true
+  shell: /bin/true
